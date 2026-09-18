@@ -12,6 +12,52 @@
 		(comment 1 "AHAL Achraf")
 	)
 	(lib_symbols)
+	(sheet
+		(at 33.02 36.83)
+		(size 53.34 74.93)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "6ae9c4a4-c173-43ed-93f8-54a31d5275c1")
+		(property "Sheetname" "STM32G474RBT3"
+			(at 33.02 36.1184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "STM32G474RBT3.kicad_sch"
+			(at 33.02 112.3446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BMO"
+				(path "/509804e7-65e7-46e6-80ed-6cdb4037dc07"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")

@@ -436,6 +436,10 @@
     [
       "509804e7-65e7-46e6-80ed-6cdb4037dc07",
       "Root"
+    ],
+    [
+      "6ae9c4a4-c173-43ed-93f8-54a31d5275c1",
+      "STM32G474RBT3"
     ]
   ],
   "text_variables": {},
